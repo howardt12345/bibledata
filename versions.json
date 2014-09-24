@@ -9,7 +9,7 @@
   "zu":"isiZulu (Zulu)",
   "ib":"Iban",
   "id":"Bahasa Indonesia (Indonesian)",
-  "es":"Espa\u00f1ol (Spanish)",
+  "ig":"As\u1ee5s\u1ee5 Igbo (Igbo)",
   "nl":"Nederlands (Dutch)",
   "pt":"Portugu\u00eas (Portuguese)",
   "zh-tw":"\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)",
@@ -20,12 +20,13 @@
   "zh-cn":"\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)",
   "tl":"Filipino (Tagalog)",
   "pa":"\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40(Punjabi)",
-  "ig":"As\u1ee5s\u1ee5 Igbo (Igbo)",
+  "es":"Espa\u00f1ol (Spanish)",
   "cb":"Cebuano",
   "ns":"Sesotho sa Leboa (Northern Sotho)",
   "ta":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd(Tamil)",
   "fr":"Fran\u00e7ais (French)",
   "yo":"Yor\u00f9b\u00e1 (Yoruba)",
+  "de":"Deutsch (German)",
   "ht":"Krey\u00f2l ayisyen (Haitian Creole)",
   "hi":"\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)",
   "hl":"Ilonggo (Hiligaynon)",
@@ -63,6 +64,18 @@
    "date":"20140407",
    "code":"rcpv",
    "name":"Ang Bag-ong Maayong Balita Biblia"
+  },
+  {
+   "lang":"de",
+   "date":"20140924",
+   "code":"ngude",
+   "name":"Neue Genfer \u00dcbersetzung"
+  },
+  {
+   "lang":"de",
+   "date":"20140924",
+   "code":"sch2000",
+   "name":"Schlachter 2000"
   },
   {
    "lang":"dt",
