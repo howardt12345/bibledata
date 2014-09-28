@@ -32,6 +32,7 @@
   "hl":"Ilonggo (Hiligaynon)",
   "dt":"Central Dusun / Kadazan (Boros Dusun)",
   "ha":"Hausa",
+  "ro":"Rom\u00e2n\u0103 (Romanian)",
   "ss":"SiSwati (Swati)",
   "sw":"Kiswahili (Swahili)",
   "sk":"Sloven\u010dina (Slovak)",
@@ -400,6 +401,12 @@
    "date":"20140329",
    "code":"nvipt",
    "name":"Nova Vers\u00e3o Internacional"
+  },
+  {
+   "lang":"ro",
+   "date":"20140928",
+   "code":"ntlr",
+   "name":"Nou\u0103 Traducere \u00cen Limba Rom\u00e2n\u0103"
   },
   {
    "lang":"sk",
