@@ -254,6 +254,12 @@
   },
   {
    "lang":"en",
+   "date":"20141023",
+   "code":"phillips",
+   "name":"J.B. Phillips New Testament"
+  },
+  {
+   "lang":"en",
    "date":"20140617",
    "code":"rsvce",
    "name":"Revised Standard Version Catholic Edition"
@@ -263,6 +269,12 @@
    "date":"20140303",
    "code":"tlb",
    "name":"Living Bible"
+  },
+  {
+   "lang":"en",
+   "date":"20141023",
+   "code":"voice",
+   "name":"The Voice"
   },
   {
    "lang":"es",
