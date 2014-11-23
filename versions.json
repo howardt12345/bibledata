@@ -9,7 +9,7 @@
   "zu":"isiZulu (Zulu)",
   "ib":"Iban",
   "id":"Bahasa Indonesia (Indonesian)",
-  "es":"Espa\u00f1ol (Spanish)",
+  "ig":"As\u1ee5s\u1ee5 Igbo (Igbo)",
   "nl":"Nederlands (Dutch)",
   "pt":"Portugu\u00eas (Portuguese)",
   "zh-tw":"\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)",
@@ -20,7 +20,7 @@
   "zh-cn":"\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)",
   "tl":"Filipino (Tagalog)",
   "pa":"\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40(Punjabi)",
-  "ig":"As\u1ee5s\u1ee5 Igbo (Igbo)",
+  "es":"Espa\u00f1ol (Spanish)",
   "cb":"Cebuano",
   "ns":"Sesotho sa Leboa (Northern Sotho)",
   "ta":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd(Tamil)",
@@ -275,6 +275,12 @@
    "date":"20141023",
    "code":"voice",
    "name":"The Voice"
+  },
+  {
+   "lang":"es",
+   "date":"20141117",
+   "code":"ntv",
+   "name":"Nueva Traducci\u00f3n Viviente"
   },
   {
    "lang":"es",
