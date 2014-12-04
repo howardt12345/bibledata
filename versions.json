@@ -9,7 +9,7 @@
   "zu":"isiZulu (Zulu)",
   "ib":"Iban",
   "id":"Bahasa Indonesia (Indonesian)",
-  "ig":"As\u1ee5s\u1ee5 Igbo (Igbo)",
+  "es":"Espa\u00f1ol (Spanish)",
   "nl":"Nederlands (Dutch)",
   "pt":"Portugu\u00eas (Portuguese)",
   "zh-tw":"\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)",
@@ -20,7 +20,7 @@
   "zh-cn":"\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)",
   "tl":"Filipino (Tagalog)",
   "pa":"\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40(Punjabi)",
-  "es":"Espa\u00f1ol (Spanish)",
+  "ig":"As\u1ee5s\u1ee5 Igbo (Igbo)",
   "cb":"Cebuano",
   "ns":"Sesotho sa Leboa (Northern Sotho)",
   "ta":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd(Tamil)",
@@ -140,6 +140,12 @@
   },
   {
    "lang":"en",
+   "date":"20140304",
+   "code":"gnv",
+   "name":"1599 Geneva Bible"
+  },
+  {
+   "lang":"en",
    "date":"20140303",
    "code":"gw",
    "name":"GOD\u2019S WORD Translation"
@@ -158,6 +164,12 @@
   },
   {
    "lang":"en",
+   "date":"20140304",
+   "code":"kj21",
+   "name":"21st Century King James Version"
+  },
+  {
+   "lang":"en",
    "date":"20140303",
    "code":"kjv",
    "name":"King James Version"
@@ -167,6 +179,12 @@
    "date":"20140326",
    "code":"leb",
    "name":"Lexham English Bible"
+  },
+  {
+   "lang":"en",
+   "date":"20141204",
+   "code":"mev",
+   "name":"Modern English Version"
   },
   {
    "lang":"en",
@@ -245,6 +263,12 @@
    "date":"20140624",
    "code":"nrsv",
    "name":"New Revised Standard Version"
+  },
+  {
+   "lang":"en",
+   "date":"20141204",
+   "code":"nrsva",
+   "name":"New Revised Standard Version, Anglicised"
   },
   {
    "lang":"en",
