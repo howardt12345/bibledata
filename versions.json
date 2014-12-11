@@ -4,6 +4,7 @@
   "xh":"isiXhosa (Xhosa)",
   "en":"English",
   "ve":"Tshiven\u1e13a (Venda)",
+  "af":"Afrikaans",
   "vi":"Ti\u1ebfng Vi\u1ec7t (Vietnamese)",
   "ar":"\ufe8e\ufee0\ufecb\ufeae\ufe92\ufef3\ufe93(Arabic)",
   "zu":"isiZulu (Zulu)",
@@ -42,6 +43,12 @@
   "my":"\u1017\u1019\u102c\u1005\u102c(Burmese)"
  },
  "versions":[
+  {
+   "lang":"af",
+   "date":"20141212",
+   "code":"afr83",
+   "name":"Afrikaans 1983"
+  },
   {
    "lang":"ar",
    "date":"20140729",
