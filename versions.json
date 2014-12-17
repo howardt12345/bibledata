@@ -10,7 +10,7 @@
   "zu":"isiZulu (Zulu)",
   "ib":"Iban",
   "id":"Bahasa Indonesia (Indonesian)",
-  "ig":"As\u1ee5s\u1ee5 Igbo (Igbo)",
+  "es":"Espa\u00f1ol (Spanish)",
   "nl":"Nederlands (Dutch)",
   "pt":"Portugu\u00eas (Portuguese)",
   "zh-tw":"\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)",
@@ -21,7 +21,7 @@
   "zh-cn":"\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)",
   "tl":"Filipino (Tagalog)",
   "pa":"\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40(Punjabi)",
-  "es":"Espa\u00f1ol (Spanish)",
+  "ig":"As\u1ee5s\u1ee5 Igbo (Igbo)",
   "cb":"Cebuano",
   "ns":"Sesotho sa Leboa (Northern Sotho)",
   "ta":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd(Tamil)",
@@ -330,6 +330,12 @@
    "date":"20140303",
    "code":"rvr60",
    "name":"Biblia Reina Valera 1960"
+  },
+  {
+   "lang":"es",
+   "date":"20141218",
+   "code":"tla",
+   "name":"Traducci\u00f3n en Lenguaje Actual"
   },
   {
    "lang":"fr",
