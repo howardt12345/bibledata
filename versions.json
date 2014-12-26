@@ -41,6 +41,7 @@
   "kr":"\ud55c\uad6d\uc5b4 (Korean)",
   "ms":"Melayu (Malay)",
   "mr":"\u092e\u0930\u093e\u0920\u0940(Marathi)",
+  "pm":"Kapampangan",
   "my":"\u1017\u1019\u102c\u1005\u102c(Burmese)"
  },
  "versions":[
@@ -463,6 +464,12 @@
    "date":"20140810",
    "code":"ervpa",
    "name":"Punjabi Bible: Easy-to-Read Version"
+  },
+  {
+   "lang":"pm",
+   "date":"20141226",
+   "code":"pmpv",
+   "name":"Ing Mayap a Balita Biblia"
   },
   {
    "lang":"pt",
