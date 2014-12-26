@@ -31,6 +31,7 @@
   "de":"Deutsch (German)",
   "ht":"Krey\u00f2l ayisyen (Haitian Creole)",
   "hi":"\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)",
+  "jr":"Jarai",
   "hl":"Ilonggo (Hiligaynon)",
   "dt":"Central Dusun / Kadazan (Boros Dusun)",
   "ha":"Hausa",
@@ -398,6 +399,12 @@
    "date":"20140330",
    "code":"igbob",
    "name":"Bible Nso"
+  },
+  {
+   "lang":"jr",
+   "date":"20141226",
+   "code":"jnt",
+   "name":"Jarai NT"
   },
   {
    "lang":"kr",
