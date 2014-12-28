@@ -8,6 +8,7 @@
   "vi":"Ti\u1ebfng Vi\u1ec7t (Vietnamese)",
   "ts":"Xitsonga (Tsonga)",
   "ar":"\ufe8e\ufee0\ufecb\ufeae\ufe92\ufef3\ufe93(Arabic)",
+  "il":"Iloko",
   "zu":"isiZulu (Zulu)",
   "ib":"Iban",
   "id":"Bahasa Indonesia (Indonesian)",
@@ -399,6 +400,12 @@
    "date":"20140330",
    "code":"igbob",
    "name":"Bible Nso"
+  },
+  {
+   "lang":"il",
+   "date":"20141228",
+   "code":"ripv",
+   "name":"Ti Baro a Naimbag a Damag Biblia"
   },
   {
    "lang":"jr",
