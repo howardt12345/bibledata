@@ -266,6 +266,12 @@
   },
   {
    "lang":"en",
+   "date":"20150108",
+   "code":"nlt2013",
+   "name":"New Living Translation 2013"
+  },
+  {
+   "lang":"en",
    "date":"20140829",
    "code":"nlv",
    "name":"New Life Version"
