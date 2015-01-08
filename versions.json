@@ -29,6 +29,7 @@
   "ta":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd(Tamil)",
   "fr":"Fran\u00e7ais (French)",
   "yo":"Yor\u00f9b\u00e1 (Yoruba)",
+  "bc":"Central Bicolano",
   "de":"Deutsch (German)",
   "ht":"Krey\u00f2l ayisyen (Haitian Creole)",
   "hi":"\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)",
@@ -64,6 +65,12 @@
    "date":"20140729",
    "code":"ervar",
    "name":"Arabic Bible: Easy-to-Read Version"
+  },
+  {
+   "lang":"bc",
+   "date":"20150108",
+   "code":"bpv",
+   "name":"Marahay na Bareta Biblia"
   },
   {
    "lang":"cb",
