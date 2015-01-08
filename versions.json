@@ -38,6 +38,7 @@
   "dt":"Central Dusun / Kadazan (Boros Dusun)",
   "ha":"Hausa",
   "ro":"Rom\u00e2n\u0103 (Romanian)",
+  "pg":"Pangasinan",
   "ss":"SiSwati (Swati)",
   "sw":"Kiswahili (Swahili)",
   "sk":"Sloven\u010dina (Slovak)",
@@ -491,6 +492,12 @@
    "date":"20140810",
    "code":"ervpa",
    "name":"Punjabi Bible: Easy-to-Read Version"
+  },
+  {
+   "lang":"pg",
+   "date":"20150108",
+   "code":"pnpv",
+   "name":"Maung a Balita Biblia"
   },
   {
    "lang":"pm",
