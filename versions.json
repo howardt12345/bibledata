@@ -6,7 +6,7 @@
   "ve":"Tshiven\u1e13a (Venda)",
   "af":"Afrikaans",
   "vi":"Ti\u1ebfng Vi\u1ec7t (Vietnamese)",
-  "ne":"\u0928\u0947\u092a\u093e\u0932\u0940 (Nepali)",
+  "ts":"Xitsonga (Tsonga)",
   "ar":"\ufe8e\ufee0\ufecb\ufeae\ufe92\ufef3\ufe93(Arabic)",
   "il":"Iloko",
   "zu":"isiZulu (Zulu)",
@@ -17,7 +17,7 @@
   "pt":"Portugu\u00eas (Portuguese)",
   "zh-tw":"\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)",
   "nb":"isiNdebele (Southern Ndebele)",
-  "ts":"Xitsonga (Tsonga)",
+  "ne":"\u0928\u0947\u092a\u093e\u0932\u0940 (Nepali)",
   "ng":"Owambo (Ndonga)",
   "tn":"Setswana (Tswana)",
   "zh-cn":"\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)",
@@ -306,6 +306,12 @@
    "date":"20141023",
    "code":"phillips",
    "name":"J.B. Phillips New Testament"
+  },
+  {
+   "lang":"en",
+   "date":"20150110",
+   "code":"rsv",
+   "name":"Revised Standard Version"
   },
   {
    "lang":"en",
