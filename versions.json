@@ -339,6 +339,12 @@
   },
   {
    "lang":"es",
+   "date":"20150130",
+   "code":"bhti",
+   "name":"La Biblia Hispanoamericana (Traducci\u00f3n Interconfesional, versi\u00f3n hispanoamericana)"
+  },
+  {
+   "lang":"es",
    "date":"20150109",
    "code":"dhh",
    "name":"Biblia Dios Habla Hoy (sin notas ni ayudas)"
@@ -354,6 +360,12 @@
    "date":"20140303",
    "code":"nvi",
    "name":"Nueva Versi\u00f3n Internacional"
+  },
+  {
+   "lang":"es",
+   "date":"20150130",
+   "code":"rvc",
+   "name":"Reina Valera Contempor\u00e1nea"
   },
   {
    "lang":"es",
