@@ -37,6 +37,7 @@
   "hl":"Ilonggo (Hiligaynon)",
   "dt":"Central Dusun / Kadazan (Boros Dusun)",
   "ha":"Hausa",
+  "he":"\u05e2\u05d1\u05e8\u05d9\u05ea (Hebrew)",
   "ro":"Rom\u00e2n\u0103 (Romanian)",
   "pg":"Pangasinan",
   "ss":"SiSwati (Swati)",
@@ -396,6 +397,12 @@
    "date":"20140604",
    "code":"hau",
    "name":"Littafi Mai Tsarki"
+  },
+  {
+   "lang":"he",
+   "date":"20150126",
+   "code":"hhh",
+   "name":"Habrit Hakhadasha/Haderekh"
   },
   {
    "lang":"hi",
