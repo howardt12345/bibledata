@@ -124,6 +124,12 @@
    "name":"Amplified Bible"
   },
   {
+   "code":"asv",
+   "date":"20150312",
+   "lang":"en",
+   "name":"The Holy Bible, American Standard Version"
+  },
+  {
    "code":"cev",
    "date":"20140329",
    "lang":"en",
@@ -334,6 +340,12 @@
    "name":"The Voice"
   },
   {
+   "code":"web",
+   "date":"20150312",
+   "lang":"en",
+   "name":"World English Bible"
+  },
+  {
    "code":"ylt",
    "date":"20140410",
    "lang":"en",
@@ -380,6 +392,12 @@
    "date":"20140303",
    "lang":"es",
    "name":"Biblia Reina Valera 1960"
+  },
+  {
+   "code":"rvr95",
+   "date":"20150312",
+   "lang":"es",
+   "name":"Biblia Reina Valera 1995"
   },
   {
    "code":"tla",
