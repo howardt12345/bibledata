@@ -136,6 +136,12 @@
    "name":"The Holy Bible, American Standard Version"
   },
   {
+   "code":"ceb",
+   "date":"20150519",
+   "lang":"en",
+   "name":"Common English Bible"
+  },
+  {
    "code":"cev",
    "date":"20140329",
    "lang":"en",
