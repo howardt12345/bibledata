@@ -36,6 +36,7 @@
   "pt":"Portugu\u00eas (Portuguese)",
   "ro":"Rom\u00e2n\u0103 (Romanian)",
   "sk":"Sloven\u010dina (Slovak)",
+  "so":"Sesotho (Southern Sotho)",
   "ss":"SiSwati (Swati)",
   "sw":"Kiswahili (Swahili)",
   "ta":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd(Tamil)",
@@ -608,6 +609,12 @@
    "date":"20140317",
    "lang":"sk",
    "name":"Slovensk\u00fd Ekumenick\u00fd Biblia"
+  },
+  {
+   "code":"sso89so",
+   "date":"20150524",
+   "lang":"so",
+   "name":"BIBELE"
   },
   {
    "code":"swt",
