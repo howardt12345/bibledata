@@ -20,6 +20,7 @@
   "ig":"As\u1ee5s\u1ee5 Igbo (Igbo)",
   "il":"Iloko",
   "jr":"Jarai",
+  "kj":"Kuanyama (Kwanyama)",
   "kr":"\ud55c\uad6d\uc5b4 (Korean)",
   "mr":"\u092e\u0930\u093e\u0920\u0940(Marathi)",
   "ms":"Melayu (Malay)",
@@ -507,6 +508,12 @@
    "date":"20141226",
    "lang":"jr",
    "name":"Jarai NT"
+  },
+  {
+   "code":"okyb",
+   "date":"20150605",
+   "lang":"kj",
+   "name":"Ombibeli Iyapuki"
   },
   {
    "code":"rnksv",
