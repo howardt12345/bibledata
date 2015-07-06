@@ -29,6 +29,7 @@
   "ne":"\u0928\u0947\u092a\u093e\u0932\u0940 (Nepali)",
   "ng":"Owambo (Ndonga)",
   "nl":"Nederlands (Dutch)",
+  "no":"Norsk: Bokm\u00e5l (Book Norwegian)",
   "ns":"Sesotho sa Leboa (Northern Sotho)",
   "or":"\u0b13\u0b21\u0b3c\u0b3f\u0b06 (Oriya)",
   "pa":"\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40(Punjabi)",
@@ -568,6 +569,12 @@
    "date":"20140408",
    "lang":"nl",
    "name":"NBG-vertaling 1951"
+  },
+  {
+   "code":"n11bm",
+   "date":"20150707",
+   "lang":"no",
+   "name":"Bibelen 2011 bokm\u00e5l"
   },
   {
    "code":"nso00",
