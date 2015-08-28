@@ -55,6 +55,12 @@
  },
  "versions":[
   {
+   "code":"afr53",
+   "date":"20150828",
+   "lang":"af",
+   "name":"Afrikaans 1933/1953"
+  },
+  {
    "code":"afr83",
    "date":"20141212",
    "lang":"af",
@@ -338,7 +344,7 @@
   },
   {
    "code":"phillips",
-   "date":"20141023",
+   "date":"20150828",
    "lang":"en",
    "name":"J.B. Phillips New Testament"
   },
