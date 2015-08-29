@@ -37,6 +37,7 @@
   "pm":"Kapampangan",
   "pt":"Portugu\u00eas (Portuguese)",
   "ro":"Rom\u00e2n\u0103 (Romanian)",
+  "rw":"Kinyarwanda",
   "sk":"Sloven\u010dina (Slovak)",
   "so":"Sesotho (Southern Sotho)",
   "ss":"SiSwati (Swati)",
@@ -635,6 +636,12 @@
    "date":"20140928",
    "lang":"ro",
    "name":"Nou\u0103 Traducere \u00cen Limba Rom\u00e2n\u0103"
+  },
+  {
+   "code":"bysb",
+   "date":"20150829",
+   "lang":"rw",
+   "name":"Bibiliya Yera"
   },
   {
    "code":"seb",
