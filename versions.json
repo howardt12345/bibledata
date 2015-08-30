@@ -9,6 +9,7 @@
   "el":"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac(Greek)",
   "en":"English",
   "es":"Espa\u00f1ol (Spanish)",
+  "fj":"Fijian",
   "fr":"Fran\u00e7ais (French)",
   "ha":"Hausa",
   "he":"\u05e2\u05d1\u05e8\u05d9\u05ea (Hebrew)",
@@ -21,7 +22,9 @@
   "il":"Iloko",
   "jr":"Jarai",
   "kj":"Kuanyama (Kwanyama)",
+  "kp":"Mountain Koiali",
   "kr":"\ud55c\uad6d\uc5b4 (Korean)",
+  "mi":"Maori",
   "mr":"\u092e\u0930\u093e\u0920\u0940(Marathi)",
   "ms":"Melayu (Malay)",
   "my":"\u1017\u1019\u102c\u1005\u102c(Burmese)",
@@ -45,6 +48,7 @@
   "ta":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd(Tamil)",
   "tl":"Filipino (Tagalog)",
   "tn":"Setswana (Tswana)",
+  "to":"lea fakatonga (Tongan)",
   "ts":"Xitsonga (Tsonga)",
   "ve":"Tshiven\u1e13a (Venda)",
   "vi":"Ti\u1ebfng Vi\u1ec7t (Vietnamese)",
@@ -446,6 +450,12 @@
    "name":"Traducci\u00f3n en Lenguaje Actual"
   },
   {
+   "code":"fnvdc",
+   "date":"20150830",
+   "lang":"fj",
+   "name":"Vakavakadewa Vou kei na iVola tale eso"
+  },
+  {
    "code":"lsg",
    "date":"20140415",
    "lang":"fr",
@@ -530,10 +540,22 @@
    "name":"Ombibeli Iyapuki"
   },
   {
+   "code":"kpxnt",
+   "date":"20150830",
+   "lang":"kp",
+   "name":"Iesu Keliso Hotoe Tumu"
+  },
+  {
    "code":"rnksv",
    "date":"20140623",
    "lang":"kr",
    "name":"Revised New Korean Standard Version"
+  },
+  {
+   "code":"maori",
+   "date":"20150830",
+   "lang":"mi",
+   "name":"Maori Bible"
   },
   {
    "code":"ervmr",
@@ -696,6 +718,12 @@
    "date":"20140310",
    "lang":"tn",
    "name":"BEIBELE"
+  },
+  {
+   "code":"rwv",
+   "date":"20150830",
+   "lang":"to",
+   "name":"Tongan Bible (Revised West Version)"
   },
   {
    "code":"tso29no",
