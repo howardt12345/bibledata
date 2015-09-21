@@ -50,6 +50,7 @@
   "tn":"Setswana (Tswana)",
   "to":"lea fakatonga (Tongan)",
   "ts":"Xitsonga (Tsonga)",
+  "tw":"Twi",
   "ve":"Tshiven\u1e13a (Venda)",
   "vi":"Ti\u1ebfng Vi\u1ec7t (Vietnamese)",
   "xh":"isiXhosa (Xhosa)",
@@ -226,6 +227,12 @@
    "date":"20140829",
    "lang":"en",
    "name":"International Standard Version"
+  },
+  {
+   "code":"jub",
+   "date":"20150918",
+   "lang":"en",
+   "name":"Jubilee Bible 2000"
   },
   {
    "code":"kj21",
@@ -736,6 +743,12 @@
    "date":"20140310",
    "lang":"ts",
    "name":"BIBELE Mahungu Lamanene"
+  },
+  {
+   "code":"natwi",
+   "date":"20150921",
+   "lang":"tw",
+   "name":"Nkwa Asem"
   },
   {
    "code":"ervur",
