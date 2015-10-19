@@ -44,9 +44,11 @@
   "rw":"Kinyarwanda",
   "sk":"Sloven\u010dina (Slovak)",
   "so":"Sesotho (Southern Sotho)",
+  "sp":"Kalenjin (Sabaot)",
   "ss":"SiSwati (Swati)",
   "sw":"Kiswahili (Swahili)",
   "ta":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd(Tamil)",
+  "th":"\u0e44\u0e17\u0e22 (Thai)",
   "tl":"Filipino (Tagalog)",
   "tn":"Setswana (Tswana)",
   "to":"lea fakatonga (Tongan)",
@@ -144,6 +146,12 @@
    "date":"20150911",
    "lang":"en",
    "name":"Amplified Bible"
+  },
+  {
+   "code":"ampc",
+   "date":"20151007",
+   "lang":"en",
+   "name":"Amplified Bible, Classic Edition"
   },
   {
    "code":"asv",
@@ -258,6 +266,12 @@
    "date":"20141204",
    "lang":"en",
    "name":"Modern English Version"
+  },
+  {
+   "code":"mounce",
+   "date":"20151007",
+   "lang":"en",
+   "name":"Mounce Reverse-Interlinear New Testament"
   },
   {
    "code":"msg",
@@ -692,6 +706,12 @@
    "name":"BIBELE"
   },
   {
+   "code":"spynt",
+   "date":"20151019",
+   "lang":"sp",
+   "name":"Biibilya Ny\u0113\u0113 Tiliil"
+  },
+  {
    "code":"swt",
    "date":"20140407",
    "lang":"ss",
@@ -714,6 +734,12 @@
    "date":"20140810",
    "lang":"ta",
    "name":"Tamil Bible: Easy-to-Read Version"
+  },
+  {
+   "code":"th1971",
+   "date":"20151019",
+   "lang":"th",
+   "name":"\u0e09\u0e1a\u0e31\u0e1a1971"
   },
   {
    "code":"mbb05",
