@@ -322,6 +322,12 @@
    "name":"New International Version"
   },
   {
+   "code":"nivuk",
+   "date":"20151027",
+   "lang":"en",
+   "name":"New International Version - UK"
+  },
+  {
    "code":"nkjv",
    "date":"20140303",
    "lang":"en",
