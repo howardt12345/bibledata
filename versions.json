@@ -11,6 +11,7 @@
   "es":"Espa\u00f1ol (Spanish)",
   "fj":"Fijian",
   "fr":"Fran\u00e7ais (French)",
+  "gr":"\u039a\u03bf\u03b9\u03bd\u03b7 (Greek)",
   "ha":"Hausa",
   "he":"\u05e2\u05d1\u05e8\u05d9\u05ea (Hebrew)",
   "hi":"\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)",
@@ -496,6 +497,12 @@
    "name":"Segond 21"
   },
   {
+   "code":"sblgnt",
+   "date":"20151201",
+   "lang":"gr",
+   "name":"SBL Greek New Testament"
+  },
+  {
    "code":"hau",
    "date":"20140604",
    "lang":"ha",
@@ -506,6 +513,12 @@
    "date":"20150126",
    "lang":"he",
    "name":"Habrit Hakhadasha/Haderekh"
+  },
+  {
+   "code":"wlc",
+   "date":"20151201",
+   "lang":"he",
+   "name":"The Westminster Leningrad Codex"
   },
   {
    "code":"ervhi",
@@ -827,7 +840,7 @@
   },
   {
    "code":"bm",
-   "date":"20140227",
+   "date":"20151202",
    "lang":"yo",
    "name":"BIBELI MIM\u1ecc"
   },
