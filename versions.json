@@ -21,6 +21,7 @@
   "id":"Bahasa Indonesia (Indonesian)",
   "ig":"As\u1ee5s\u1ee5 Igbo (Igbo)",
   "il":"Iloko",
+  "it":"Italiano (Italian)",
   "jr":"Jarai",
   "kj":"Kuanyama (Kwanyama)",
   "kp":"Mountain Koiali",
@@ -567,6 +568,12 @@
    "date":"20141228",
    "lang":"il",
    "name":"Ti Baro a Naimbag a Damag Biblia"
+  },
+  {
+   "code":"nr2006",
+   "date":"20151202",
+   "lang":"it",
+   "name":"Nuova Riveduta 2006"
   },
   {
    "code":"jnt",
