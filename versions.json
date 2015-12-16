@@ -73,73 +73,73 @@
   },
   {
    "code":"afr83",
-   "date":"20141212",
+   "date":"20151216",
    "lang":"af",
    "name":"Afrikaans 1983"
   },
   {
    "code":"alab",
-   "date":"20140729",
+   "date":"20151216",
    "lang":"ar",
    "name":"Arabic Life Application Bible"
   },
   {
    "code":"ervar",
-   "date":"20140729",
+   "date":"20151216",
    "lang":"ar",
    "name":"Arabic Bible: Easy-to-Read Version"
   },
   {
    "code":"nav",
-   "date":"20150409",
+   "date":"20151216",
    "lang":"ar",
    "name":"Ketab El Hayat"
   },
   {
    "code":"bpv",
-   "date":"20150108",
+   "date":"20151216",
    "lang":"bc",
    "name":"Marahay na Bareta Biblia"
   },
   {
    "code":"apsd",
-   "date":"20140623",
+   "date":"20151216",
    "lang":"cb",
    "name":"Ang Pulong Sa Dios"
   },
   {
    "code":"rcpv",
-   "date":"20140407",
+   "date":"20151216",
    "lang":"cb",
    "name":"Ang Bag-ong Maayong Balita Biblia"
   },
   {
    "code":"ngude",
-   "date":"20140924",
+   "date":"20151216",
    "lang":"de",
    "name":"Neue Genfer \u00dcbersetzung"
   },
   {
    "code":"sch2000",
-   "date":"20140924",
+   "date":"20151216",
    "lang":"de",
    "name":"Schlachter 2000"
   },
   {
    "code":"bdk",
-   "date":"20140409",
+   "date":"20151216",
    "lang":"dt",
    "name":"Buuk Do Kinorohingan"
   },
   {
    "code":"tr1550",
-   "date":"20140609",
+   "date":"20151216",
    "lang":"el",
    "name":"1550 Stephanus New Testament"
   },
   {
    "code":"tr1894",
-   "date":"20140609",
+   "date":"20151216",
    "lang":"el",
    "name":"1894 Scrivener New Testament"
   },
@@ -157,73 +157,79 @@
   },
   {
    "code":"asv",
-   "date":"20150312",
+   "date":"20151216",
    "lang":"en",
    "name":"The Holy Bible, American Standard Version"
   },
   {
    "code":"ceb",
-   "date":"20150519",
+   "date":"20151216",
    "lang":"en",
    "name":"Common English Bible"
   },
   {
    "code":"cev",
-   "date":"20140329",
+   "date":"20151216",
+   "lang":"en",
+   "name":"Contemporary English Version (US Version)"
+  },
+  {
+   "code":"cevd",
+   "date":"20151216",
    "lang":"en",
    "name":"Contemporary English Version (US Version)"
   },
   {
    "code":"cjb",
-   "date":"20140301",
+   "date":"20151216",
    "lang":"en",
    "name":"Complete Jewish Bible"
   },
   {
    "code":"dra",
-   "date":"20150316",
+   "date":"20151216",
    "lang":"en",
    "name":"Douay-Rheims 1899 American Edition"
   },
   {
    "code":"erv",
-   "date":"20140304",
+   "date":"20151216",
    "lang":"en",
    "name":"Easy-to-Read Version"
   },
   {
    "code":"esv",
-   "date":"20140309",
+   "date":"20151216",
    "lang":"en",
    "name":"English Standard Version"
   },
   {
    "code":"exb",
-   "date":"20140829",
+   "date":"20151216",
    "lang":"en",
    "name":"Expanded Bible"
   },
   {
    "code":"gnt",
-   "date":"20140329",
+   "date":"20151216",
    "lang":"en",
    "name":"Good News Translation"
   },
   {
    "code":"gnv",
-   "date":"20140304",
+   "date":"20151216",
    "lang":"en",
    "name":"1599 Geneva Bible"
   },
   {
    "code":"gw",
-   "date":"20140303",
+   "date":"20151216",
    "lang":"en",
    "name":"GOD\u2019S WORD Translation"
   },
   {
    "code":"hcsb",
-   "date":"20140329",
+   "date":"20151216",
    "lang":"en",
    "name":"Holman Christian Standard Bible"
   },
@@ -235,7 +241,7 @@
   },
   {
    "code":"isv",
-   "date":"20140829",
+   "date":"20151216",
    "lang":"en",
    "name":"International Standard Version"
   },
@@ -247,25 +253,25 @@
   },
   {
    "code":"kj21",
-   "date":"20140304",
+   "date":"20151216",
    "lang":"en",
    "name":"21st Century King James Version"
   },
   {
    "code":"kjv",
-   "date":"20140303",
+   "date":"20151216",
    "lang":"en",
    "name":"King James Version"
   },
   {
    "code":"leb",
-   "date":"20140326",
+   "date":"20151216",
    "lang":"en",
    "name":"Lexham English Bible"
   },
   {
    "code":"mev",
-   "date":"20141204",
+   "date":"20151216",
    "lang":"en",
    "name":"Modern English Version"
   },
@@ -277,49 +283,49 @@
   },
   {
    "code":"msg",
-   "date":"20140303",
+   "date":"20151216",
    "lang":"en",
    "name":"The Message"
   },
   {
    "code":"nabre",
-   "date":"20140329",
+   "date":"20151216",
    "lang":"en",
    "name":"New American Bible, Revised Edition"
   },
   {
    "code":"nasb",
-   "date":"20140317",
+   "date":"20151216",
    "lang":"en",
    "name":"New American Standard Bible"
   },
   {
    "code":"ncv",
-   "date":"20140312",
+   "date":"20151216",
    "lang":"en",
    "name":"New Century Version"
   },
   {
    "code":"net",
-   "date":"20140319",
+   "date":"20151216",
    "lang":"en",
    "name":"New English Translation"
   },
   {
    "code":"nirv",
-   "date":"20140829",
+   "date":"20151216",
    "lang":"en",
    "name":"New International Reader's Version"
   },
   {
    "code":"niv1984",
-   "date":"20140320",
+   "date":"20151216",
    "lang":"en",
    "name":"New International Version 1984"
   },
   {
    "code":"niv2011",
-   "date":"20140320",
+   "date":"20151216",
    "lang":"en",
    "name":"New International Version"
   },
@@ -331,49 +337,49 @@
   },
   {
    "code":"nkjv",
-   "date":"20140303",
+   "date":"20151216",
    "lang":"en",
    "name":"New King James Version"
   },
   {
    "code":"nlt",
-   "date":"20140303",
+   "date":"20151216",
    "lang":"en",
    "name":"New Living Translation"
   },
   {
    "code":"nlt2013",
-   "date":"20150108",
+   "date":"20151216",
    "lang":"en",
    "name":"New Living Translation 2013"
   },
   {
    "code":"nlv",
-   "date":"20140829",
+   "date":"20151216",
    "lang":"en",
    "name":"New Life Version"
   },
   {
    "code":"nog",
-   "date":"20140325",
+   "date":"20151216",
    "lang":"en",
    "name":"Names of God Bible"
   },
   {
    "code":"nrsv",
-   "date":"20140624",
+   "date":"20151216",
    "lang":"en",
    "name":"New Revised Standard Version"
   },
   {
    "code":"nrsva",
-   "date":"20141204",
+   "date":"20151216",
    "lang":"en",
    "name":"New Revised Standard Version, Anglicised"
   },
   {
    "code":"ojb",
-   "date":"20140403",
+   "date":"20151216",
    "lang":"en",
    "name":"Orthodox Jewish Bible"
   },
@@ -385,97 +391,97 @@
   },
   {
    "code":"rsv",
-   "date":"20150110",
+   "date":"20151216",
    "lang":"en",
    "name":"Revised Standard Version"
   },
   {
    "code":"rsvce",
-   "date":"20140617",
+   "date":"20151216",
    "lang":"en",
    "name":"Revised Standard Version Catholic Edition"
   },
   {
    "code":"tlb",
-   "date":"20140303",
+   "date":"20151216",
    "lang":"en",
    "name":"Living Bible"
   },
   {
    "code":"voice",
-   "date":"20141023",
+   "date":"20151216",
    "lang":"en",
    "name":"The Voice"
   },
   {
    "code":"web",
-   "date":"20150312",
+   "date":"20151216",
    "lang":"en",
    "name":"World English Bible"
   },
   {
    "code":"ylt",
-   "date":"20140410",
+   "date":"20151216",
    "lang":"en",
    "name":"Young&#039;s Literal Translation"
   },
   {
    "code":"bhti",
-   "date":"20150130",
+   "date":"20151216",
    "lang":"es",
    "name":"La Biblia Hispanoamericana (Traducci\u00f3n Interconfesional, versi\u00f3n hispanoamericana)"
   },
   {
    "code":"bl92",
-   "date":"20150330",
+   "date":"20151216",
    "lang":"es",
    "name":"Buku Lopatulika 1992"
   },
   {
    "code":"dhh",
-   "date":"20150109",
+   "date":"20151216",
    "lang":"es",
    "name":"Biblia Dios Habla Hoy (sin notas ni ayudas)"
   },
   {
    "code":"nblh",
-   "date":"20150203",
+   "date":"20151216",
    "lang":"es",
    "name":"Nueva Biblia Latinoamericana de Hoy"
   },
   {
    "code":"ntv",
-   "date":"20141117",
+   "date":"20151216",
    "lang":"es",
    "name":"Nueva Traducci\u00f3n Viviente"
   },
   {
    "code":"nvi",
-   "date":"20140303",
+   "date":"20151216",
    "lang":"es",
    "name":"Nueva Versi\u00f3n Internacional"
   },
   {
    "code":"rvc",
-   "date":"20150130",
+   "date":"20151216",
    "lang":"es",
    "name":"Reina Valera Contempor\u00e1nea"
   },
   {
    "code":"rvr60",
-   "date":"20140303",
+   "date":"20151216",
    "lang":"es",
    "name":"Biblia Reina Valera 1960"
   },
   {
    "code":"rvr95",
-   "date":"20150312",
+   "date":"20151216",
    "lang":"es",
    "name":"Biblia Reina Valera 1995"
   },
   {
    "code":"tla",
-   "date":"20141218",
+   "date":"20151216",
    "lang":"es",
    "name":"Traducci\u00f3n en Lenguaje Actual"
   },
@@ -487,13 +493,13 @@
   },
   {
    "code":"lsg",
-   "date":"20140415",
+   "date":"20151216",
    "lang":"fr",
    "name":"Bible Segond 1910"
   },
   {
    "code":"sg21",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"fr",
    "name":"Segond 21"
   },
@@ -505,13 +511,13 @@
   },
   {
    "code":"hau",
-   "date":"20140604",
+   "date":"20151216",
    "lang":"ha",
    "name":"Littafi Mai Tsarki"
   },
   {
    "code":"hhh",
-   "date":"20150126",
+   "date":"20151216",
    "lang":"he",
    "name":"Habrit Hakhadasha/Haderekh"
   },
@@ -523,49 +529,49 @@
   },
   {
    "code":"ervhi",
-   "date":"20140418",
+   "date":"20151216",
    "lang":"hi",
    "name":"Hindi Bible: Easy-to-Read Version"
   },
   {
    "code":"hlgn",
-   "date":"20140317",
+   "date":"20151216",
    "lang":"hl",
    "name":"Ang Pulong Sang Dios"
   },
   {
    "code":"hcv",
-   "date":"20140311",
+   "date":"20151216",
    "lang":"ht",
    "name":"Haitian Creole Version"
   },
   {
    "code":"bk",
-   "date":"20140518",
+   "date":"20151216",
    "lang":"ib",
    "name":"Bup Kudus"
   },
   {
    "code":"bimk",
-   "date":"20140731",
+   "date":"20151216",
    "lang":"id",
    "name":"Alkitab dalam Bahasa Indonesia Masa Kini"
   },
   {
    "code":"tb",
-   "date":"20140731",
+   "date":"20151216",
    "lang":"id",
    "name":"Alkitab Terjemahan Baru"
   },
   {
    "code":"igbob",
-   "date":"20140330",
+   "date":"20151216",
    "lang":"ig",
    "name":"Bible Nso"
   },
   {
    "code":"ripv",
-   "date":"20141228",
+   "date":"20151216",
    "lang":"il",
    "name":"Ti Baro a Naimbag a Damag Biblia"
   },
@@ -577,7 +583,7 @@
   },
   {
    "code":"jnt",
-   "date":"20141226",
+   "date":"20151216",
    "lang":"jr",
    "name":"Jarai NT"
   },
@@ -595,7 +601,7 @@
   },
   {
    "code":"rnksv",
-   "date":"20140623",
+   "date":"20151216",
    "lang":"kr",
    "name":"Revised New Korean Standard Version"
   },
@@ -607,37 +613,37 @@
   },
   {
    "code":"ervmr",
-   "date":"20140810",
+   "date":"20151216",
    "lang":"mr",
    "name":"Marathi Bible: Easy-to-Read Version"
   },
   {
    "code":"bmdc",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"ms",
    "name":"Alkitab Berita Baik (+Deuterokanonika)"
   },
   {
    "code":"bjb",
-   "date":"20140401",
+   "date":"20151216",
    "lang":"my",
    "name":"Judson Bible"
   },
   {
    "code":"snd12",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"nb",
    "name":"IsiNdebele 2012 Translation"
   },
   {
    "code":"ervne",
-   "date":"20141226",
+   "date":"20151216",
    "lang":"ne",
    "name":"Nepali Bible: Easy-to-Read Version"
   },
   {
    "code":"ondb",
-   "date":"20140806",
+   "date":"20151216",
    "lang":"ng",
    "name":"Ombiimbeli Ondjapuki"
   },
@@ -649,7 +655,7 @@
   },
   {
    "code":"nbg51",
-   "date":"20140408",
+   "date":"20151216",
    "lang":"nl",
    "name":"NBG-vertaling 1951"
   },
@@ -673,49 +679,49 @@
   },
   {
    "code":"nso00",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"ns",
    "name":"BIBELE Taba yea Botse"
   },
   {
    "code":"nso51",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"ns",
    "name":"BIBELE"
   },
   {
    "code":"ervor",
-   "date":"20150203",
+   "date":"20151216",
    "lang":"or",
    "name":"Oriya Bible: Easy-to-Read Version"
   },
   {
    "code":"ervpa",
-   "date":"20140810",
+   "date":"20151216",
    "lang":"pa",
    "name":"Punjabi Bible: Easy-to-Read Version"
   },
   {
    "code":"pnpv",
-   "date":"20150108",
+   "date":"20151216",
    "lang":"pg",
    "name":"Maung a Balita Biblia"
   },
   {
    "code":"pmpv",
-   "date":"20141226",
+   "date":"20151216",
    "lang":"pm",
    "name":"Ing Mayap a Balita Biblia"
   },
   {
    "code":"nvipt",
-   "date":"20140329",
+   "date":"20151216",
    "lang":"pt",
    "name":"Nova Vers\u00e3o Internacional"
   },
   {
    "code":"ntlr",
-   "date":"20140928",
+   "date":"20151216",
    "lang":"ro",
    "name":"Nou\u0103 Traducere \u00cen Limba Rom\u00e2n\u0103"
   },
@@ -733,13 +739,13 @@
   },
   {
    "code":"seb",
-   "date":"20140317",
+   "date":"20151216",
    "lang":"sk",
    "name":"Slovensk\u00fd Ekumenick\u00fd Biblia"
   },
   {
    "code":"sso89so",
-   "date":"20150524",
+   "date":"20151216",
    "lang":"so",
    "name":"BIBELE"
   },
@@ -751,25 +757,25 @@
   },
   {
    "code":"swt",
-   "date":"20140407",
+   "date":"20151216",
    "lang":"ss",
    "name":"Siswati 1996 Bible"
   },
   {
    "code":"bhn",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"sw",
    "name":"Biblia Habari Njema"
   },
   {
    "code":"suv",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"sw",
    "name":"Swahili Union Version"
   },
   {
    "code":"ervta",
-   "date":"20140810",
+   "date":"20151216",
    "lang":"ta",
    "name":"Tamil Bible: Easy-to-Read Version"
   },
@@ -781,19 +787,19 @@
   },
   {
    "code":"mbb05",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"tl",
    "name":"Magandang Balita Biblia (2005)"
   },
   {
    "code":"tsw08no",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"tn",
    "name":"BAEBELE e e Boitshepo"
   },
   {
    "code":"tsw70",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"tn",
    "name":"BEIBELE"
   },
@@ -805,13 +811,13 @@
   },
   {
    "code":"tso29no",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"ts",
    "name":"Xitsonga (Bibele)"
   },
   {
    "code":"tso89",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"ts",
    "name":"BIBELE Mahungu Lamanene"
   },
@@ -823,37 +829,37 @@
   },
   {
    "code":"ervur",
-   "date":"20150203",
+   "date":"20151216",
    "lang":"ur",
    "name":"Urdu Bible: Easy-to-Read Version"
   },
   {
    "code":"urd",
-   "date":"20150205",
+   "date":"20151216",
    "lang":"ur",
    "name":"Revised Urdu Bible"
   },
   {
    "code":"ven98",
-   "date":"20140416",
+   "date":"20151216",
    "lang":"ve",
    "name":"BIVHILI KHETHWA Mafhungo Madifha"
   },
   {
    "code":"rvv11",
-   "date":"20140331",
+   "date":"20151216",
    "lang":"vi",
    "name":"Revised Vietnamese Version Bible"
   },
   {
    "code":"xho75",
-   "date":"20140327",
+   "date":"20151216",
    "lang":"xh",
    "name":"IZIBHALO EZINGCWELE"
   },
   {
    "code":"xho96",
-   "date":"20140327",
+   "date":"20151216",
    "lang":"xh",
    "name":"IBHAYIBHILE"
   },
@@ -865,13 +871,13 @@
   },
   {
    "code":"ccb",
-   "date":"20140301",
+   "date":"20151216",
    "lang":"zh-cn",
    "name":"\u5f53\u4ee3\u8bd1\u672c"
   },
   {
    "code":"cnvs",
-   "date":"20141028",
+   "date":"20151216",
    "lang":"zh-cn",
    "name":"\u5723\u7ecf\u65b0\u8bd1\u672c"
   },
@@ -889,13 +895,13 @@
   },
   {
    "code":"rcuvss",
-   "date":"20140301",
+   "date":"20151216",
    "lang":"zh-cn",
    "name":"\u548c\u5408\u672c\u4fee\u8ba2\u7248"
   },
   {
    "code":"cnvt",
-   "date":"20140308",
+   "date":"20151216",
    "lang":"zh-tw",
    "name":"\u65b0\u8b6f\u672c"
   },
@@ -907,13 +913,13 @@
   },
   {
    "code":"rcuvts",
-   "date":"20140301",
+   "date":"20151216",
    "lang":"zh-tw",
    "name":"\u548c\u5408\u672c\u4fee\u8a02\u7248"
   },
   {
    "code":"zul59",
-   "date":"20140310",
+   "date":"20151216",
    "lang":"zu",
    "name":"IBHAYIBHELI ELINGCWELE"
   }
