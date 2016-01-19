@@ -49,7 +49,7 @@
   "sp":"Kalenjin (Sabaot)",
   "ss":"SiSwati (Swati)",
   "sw":"Kiswahili (Swahili)",
-  "ta":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd(Tamil)",
+  "ta":"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd (Tamil)",
   "th":"\u0e44\u0e17\u0e22 (Thai)",
   "tl":"Filipino (Tagalog)",
   "tn":"Setswana (Tswana)",
@@ -790,6 +790,12 @@
    "date":"20151216",
    "lang":"ta",
    "name":"Tamil Bible: Easy-to-Read Version"
+  },
+  {
+   "code":"tbov",
+   "date":"20160119",
+   "lang":"ta",
+   "name":"\u0baa\u0bb0\u0bbf\u0b9a\u0bc1\u0ba4\u0bcd\u0ba4 \u0bb5\u0bc7\u0ba4\u0bbe\u0b95\u0bae\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
   },
   {
    "code":"th1971",
