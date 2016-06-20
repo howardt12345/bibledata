@@ -1,5 +1,7 @@
 {
  "languages":{
+  "Croatian (Hrvatski)":"hr",
+  "Hrvatski (Croatian)":"hr",
   "af":"Afrikaans",
   "ar":"\ufe8e\ufee0\ufecb\ufeae\ufe92\ufef3\ufe93(Arabic)",
   "bc":"Central Bicolano",
@@ -558,6 +560,12 @@
    "name":"Ang Pulong Sang Dios"
   },
   {
+   "code":"hnzri",
+   "date":"20160620",
+   "lang":"hr",
+   "name":"Hrvatski Novi Zavjet \u2013 Rijeka 2001"
+  },
+  {
    "code":"hcv",
    "date":"20151216",
    "lang":"ht",
@@ -820,6 +828,12 @@
    "date":"20151216",
    "lang":"tl",
    "name":"Magandang Balita Biblia (2005)"
+  },
+  {
+   "code":"snd",
+   "date":"20160620",
+   "lang":"tl",
+   "name":"Ang Salita ng Diyos"
   },
   {
    "code":"tsw08no",
