@@ -1,7 +1,5 @@
 {
  "languages":{
-  "Croatian (Hrvatski)":"hr",
-  "Hrvatski (Croatian)":"hr",
   "af":"Afrikaans",
   "ar":"\ufe8e\ufee0\ufecb\ufeae\ufe92\ufef3\ufe93(Arabic)",
   "bc":"Central Bicolano",
@@ -18,6 +16,7 @@
   "he":"\u05e2\u05d1\u05e8\u05d9\u05ea (Hebrew)",
   "hi":"\u0939\u093f\u0928\u094d\u0926\u0940 (Hindi)",
   "hl":"Ilonggo (Hiligaynon)",
+  "hr":"Hrvatski (Croatian)",
   "ht":"Krey\u00f2l ayisyen (Haitian Creole)",
   "ib":"Iban",
   "id":"Bahasa Indonesia (Indonesian)",
@@ -771,7 +770,7 @@
   },
   {
    "code":"seb",
-   "date":"20151216",
+   "date":"20160705",
    "lang":"sk",
    "name":"Slovensk\u00fd Ekumenick\u00fd Biblia"
   },
