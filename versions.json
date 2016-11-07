@@ -55,6 +55,7 @@
   "tl":"Filipino (Tagalog)",
   "tn":"Setswana (Tswana)",
   "to":"lea fakatonga (Tongan)",
+  "tr":"T\u00fcrk\u00e7e (Turkish)",
   "ts":"Xitsonga (Tsonga)",
   "tw":"Twi",
   "ve":"Tshiven\u1e13a (Venda)",
@@ -150,6 +151,12 @@
    "date":"20151216",
    "lang":"el",
    "name":"1894 Scrivener New Testament"
+  },
+  {
+   "code":"akjv",
+   "date":"20161108",
+   "lang":"en",
+   "name":"Authorized (King James) Version"
   },
   {
    "code":"amp",
@@ -752,6 +759,12 @@
    "name":"Nova Vers\u00e3o Internacional"
   },
   {
+   "code":"bdc",
+   "date":"20161108",
+   "lang":"ro",
+   "name":"Biblia sau Sf\u00e2nta Scriptur\u0103 cu Trimiteri 1924 (Dumitru Cornilescu), corectat\u0103 2016"
+  },
+  {
    "code":"ntlr",
    "date":"20151216",
    "lang":"ro",
@@ -860,6 +873,12 @@
    "name":"Tongan Bible (Revised West Version)"
   },
   {
+   "code":"tcl02",
+   "date":"20161108",
+   "lang":"tr",
+   "name":"Kutsal Kitap Yeni Ceviri"
+  },
+  {
    "code":"tso29no",
    "date":"20151216",
    "lang":"ts",
@@ -894,6 +913,12 @@
    "date":"20151216",
    "lang":"ve",
    "name":"BIVHILI KHETHWA Mafhungo Madifha"
+  },
+  {
+   "code":"bpt",
+   "date":"20161108",
+   "lang":"vi",
+   "name":"Vietnamese Bible: Easy-to-Read Version"
   },
   {
    "code":"rvv11",
