@@ -63,6 +63,7 @@
   "yo":"Yor\u00f9b\u00e1 (Yoruba)",
   "zh-cn":"\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)",
   "zh-tw":"\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)",
+  "zo":"Zou",
   "zu":"isiZulu (Zulu)"
  },
  "versions":[
@@ -965,6 +966,12 @@
    "date":"20151216",
    "lang":"zh-tw",
    "name":"\u548c\u5408\u672c\u4fee\u8a02\u7248"
+  },
+  {
+   "code":"zomi",
+   "date":"20161108",
+   "lang":"zo",
+   "name":"LAISIENGTHOU"
   },
   {
    "code":"zul59",
