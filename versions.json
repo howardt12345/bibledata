@@ -4,6 +4,7 @@
   "ar":"\ufe8e\ufee0\ufecb\ufeae\ufe92\ufef3\ufe93(Arabic)",
   "bc":"Central Bicolano",
   "cb":"Cebuano",
+  "cy":"Cymraeg (Welsh)",
   "de":"Deutsch (German)",
   "dt":"Central Dusun / Kadazan (Boros Dusun)",
   "el":"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac(Greek)",
@@ -121,6 +122,12 @@
    "date":"20151216",
    "lang":"cb",
    "name":"Ang Bag-ong Maayong Balita Biblia"
+  },
+  {
+   "code":"bcnd",
+   "date":"20161223",
+   "lang":"cy",
+   "name":"Beibl Cymraeg Newydd Diwygiedig 2004"
   },
   {
    "code":"ngude",
@@ -439,6 +446,12 @@
    "date":"20151216",
    "lang":"en",
    "name":"World English Bible"
+  },
+  {
+   "code":"webbe",
+   "date":"20161223",
+   "lang":"en",
+   "name":"World English Bible British Edition"
   },
   {
    "code":"ylt",
